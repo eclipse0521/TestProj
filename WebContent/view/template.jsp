@@ -9,7 +9,7 @@
 <body>
 	<table border="">
 		<tr>
-			<td>
+			<td> 
 				<jsp:include page="loca/top.jsp"/>
 			</td>
 		</tr>
